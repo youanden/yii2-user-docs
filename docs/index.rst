@@ -1,0 +1,14 @@
+Yii2-user
+=========
+
+Yii2-user is a flexible user registration and authentication module for Yii2.
+
+Getting started
+---------------
+
+.. toctree::
+   :maxdepth: 1
+
+   getting-started/overview
+   getting-started/installation
+
