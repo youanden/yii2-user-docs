@@ -1,8 +1,11 @@
 Installation
 ============
 
-This page describes Yii2-user installation using composer. Installation is a quick and easy two-step process. Before we
-start make sure that you have properly configured **db** and **mail** application components.
+This document will guide you through the process of installing Yii2-user using **composer**. Installation is a quick and
+easy two-step process. Installation is fully automatic: you don't even need to configure module manually!
+
+.. note::
+    Before we start make sure that you have properly configured **db** and **mail** application components.
 
 Downloading Yii2-user using composer
 ------------------------------------
@@ -26,10 +29,4 @@ After you downloaded Yii2-user, the last thing you need to do is update your dat
 
     $ php yii migrate/up --migrationPath=@vendor/dektrium/yii2-user/migrations
 
-Post-installation
------------------
-
-.. note::
-    You have to configure **mail** application component in order to use all features of Yii2-user.
-    
-Now you have completed the basic installation of Yii2-user. You can go to the register page and try to sign up.
+That's all! You have successully finished Yii2-user installation and from now you are ready to use all its functionality.
