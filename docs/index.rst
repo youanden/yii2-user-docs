@@ -12,3 +12,10 @@ Getting started
    getting-started/overview
    getting-started/installation
 
+Basics
+------
+
+.. toctree::
+   :maxdepth: 1
+
+   basics/configuration
