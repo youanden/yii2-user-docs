@@ -19,3 +19,4 @@ Basics
    :maxdepth: 1
 
    basics/configuration
+   basics/available-actions
