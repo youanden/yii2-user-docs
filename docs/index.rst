@@ -20,3 +20,4 @@ Basics
 
    basics/configuration
    basics/available-actions
+   basics/user-management
