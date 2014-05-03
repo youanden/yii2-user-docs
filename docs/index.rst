@@ -21,6 +21,17 @@ Basics
    basics/configuration
    basics/available-actions
    basics/user-management
+   basics/overriding-models
+   basics/overriding-views
+
+How-to
+------
+
+.. toctree::
+    :maxdepth: 1
+
+    howto/adding-captcha
+    howto/removing-password-field
 
 Feedback
 --------
