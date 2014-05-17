@@ -37,7 +37,7 @@ The configuration is done in the application's ``config/web.php`` file.
             ...
             'user' => [
                 'class' => 'dektrium\user\Module',
-                'allowUnconfirmedLogin' => true
+                'allowUnconfirmedLogin' => true,
                 'confirmWithin' => 21600,
                 'cost' => 12,
                 'admins' => ['admin']
